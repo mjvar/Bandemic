@@ -423,7 +423,7 @@ d3.json("bandemicstats.json").then((data) => {
             joaoLine.transition(100).attr("stroke-opacity", curveOpacity)
         });
     svg.append("text")
-        .text("Joao")
+        .text("João")
         .attr("x", cellWidth*15.5)
         .attr("y", cellHeight*15.8)
         .attr("dy", "0.35em")
