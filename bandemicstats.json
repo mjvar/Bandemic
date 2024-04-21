@@ -1,0 +1,211 @@
+[
+    {
+        "Month": "January",
+        "Played": "2024-02-03",
+        "Attempt": "1",
+        "Win": "1",
+        "Funding": "4",
+        "Mike": "Riley Singh",
+        "Thew": "Billy Boy IV",
+        "Sejin": "Karolina Basilico",
+        "João": "Junior Michael"
+    },
+    {
+        "Month": "February",
+        "Played": "2024-02-06",
+        "Attempt": "1",
+        "Win": "1",
+        "Funding": "2",
+        "Mike": "Riley Singh",
+        "Thew": "Shoshanna Smith",
+        "Sejin": "Karolina Basilico",
+        "João": "Junior Michael"
+    },
+    {
+        "Month": "March",
+        "Played": "2024-02-10",
+        "Attempt": "1",
+        "Win": "1",
+        "Funding": "0",
+        "Mike": "Daniel Touray",
+        "Thew": "Karolina Basilico",
+        "Sejin": "Shoshanna Smith",
+        "João": "Junior Michael"
+    },
+    {
+        "Month": "April",
+        "Played": "2024-02-13",
+        "Attempt": "1",
+        "Win": "0",
+        "Funding": "0",
+        "Mike": "Junior Michael",
+        "Thew": "Cum Lorde Jenkins",
+        "Sejin": "Daniel Touray",
+        "João": "Riley Singh"
+    },
+    {
+        "Month": "April",
+        "Played": "2024-02-20",
+        "Attempt": "2",
+        "Win": "1",
+        "Funding": "2",
+        "Mike": "Cum Lorde Jenkins",
+        "Thew": "Shoshanna Smith",
+        "Sejin": "Junior Michael",
+        "João": "Karolina Basilico"
+    },
+    {
+        "Month": "May",
+        "Played": "2024-03-03",
+        "Attempt": "1",
+        "Win": "0",
+        "Funding": "0",
+        "Mike": "Takeshi Yamada",
+        "Thew": "Daniel Touray",
+        "Sejin": "Karolina Basilico",
+        "João": "Junior Michael"
+    },
+    {
+        "Month": "May",
+        "Played": "2024-03-03",
+        "Attempt": "2",
+        "Win": "1",
+        "Funding": "2",
+        "Mike": "Daniel Touray",
+        "Thew": "Cum Lorde Jenkins",
+        "Sejin": "Shoshanna Smith",
+        "João": "Karolina Basilico"
+    },
+    {
+        "Month": "June",
+        "Played": "2024-03-03",
+        "Attempt": "1",
+        "Win": "0",
+        "Funding": "0",
+        "Mike": "Daniel Touray",
+        "Thew": "Karolina Basilico",
+        "Sejin": "Cum Lorde Jenkins",
+        "João": "Shoshanna Smith"
+    },
+    {
+        "Month": "June",
+        "Played": "2024-03-05",
+        "Attempt": "2",
+        "Win": "1",
+        "Funding": "2",
+        "Mike": "Shoshanna Smith",
+        "Thew": "Junior Michael",
+        "Sejin": "Takeshi Yamada",
+        "João": "Karolina Basilico"
+    },
+    {
+        "Month": "July",
+        "Played": "2024-03-05",
+        "Attempt": "1",
+        "Win": "0",
+        "Funding": "0",
+        "Mike": "Karolina Basilico",
+        "Thew": "Shoshanna Smith",
+        "Sejin": "Junior Michael",
+        "João": "Kemãl"
+    },
+    {
+        "Month": "July",
+        "Played": "2024-03-30",
+        "Attempt": "2",
+        "Win": "1",
+        "Funding": "2",
+        "Mike": "Karolina Basilico",
+        "Thew": "Kemãl",
+        "Sejin": "Riley Singh",
+        "João": "Cum Lorde Jenkins"
+    },
+    {
+        "Month": "August",
+        "Played": "2024-03-30",
+        "Attempt": "1",
+        "Win": "0",
+        "Funding": "0",
+        "Mike": "Karolina Basilico",
+        "Thew": "Shoshanna Smith",
+        "Sejin": "Kemãl",
+        "João": "Cum Lorde Jenkins"
+    },
+    {
+        "Month": "August",
+        "Played": "2024-04-06",
+        "Attempt": "2",
+        "Win": "1",
+        "Funding": "2",
+        "Mike": "Karolina Basilico",
+        "Thew": "Kemãl",
+        "Sejin": "Cum Lorde Jenkins",
+        "João": "Shoshanna Smith"
+    },
+    {
+        "Month": "September",
+        "Played": "2024-04-06",
+        "Attempt": "1",
+        "Win": "1",
+        "Funding": "0",
+        "Mike": "Karolina Basilico",
+        "Thew": "Cum Lorde Jenkins",
+        "Sejin": "Shoshanna Smith",
+        "João": "Civilian"
+    },
+    {
+        "Month": "October",
+        "Played": "2024-04-06",
+        "Attempt": "1",
+        "Win": "0",
+        "Funding": "0",
+        "Mike": "Riley Singh",
+        "Thew": "Shoshanna Smith",
+        "Sejin": "Karolina Basilico",
+        "João": "Cum Lorde Jenkins"
+    },
+    {
+        "Month": "October",
+        "Played": "2024-04-07",
+        "Attempt": "2",
+        "Win": "0",
+        "Funding": "2",
+        "Mike": "Karolina Basilico",
+        "Thew": "Takeshi Yamada",
+        "Sejin": "Cum Lorde Jenkins",
+        "João": "Shoshanna Smith"
+    },
+    {
+        "Month": "November",
+        "Played": "2024-04-07",
+        "Attempt": "1",
+        "Win": "1",
+        "Funding": "4",
+        "Mike": "Daniel Touray",
+        "Thew": "Civilian",
+        "Sejin": "Karolina Basilico",
+        "João": "Shoshanna Smith"
+    },
+    {
+        "Month": "December",
+        "Played": "2024-04-20",
+        "Attempt": "1",
+        "Win": "0",
+        "Funding": "2",
+        "Mike": "Riley Singh",
+        "Thew": "Luna Lupine",
+        "Sejin": "Just Steve",
+        "João": "Daniel Touray"
+    },
+    {
+        "Month": "December",
+        "Played": "2024-04-20",
+        "Attempt": "2",
+        "Win": "1",
+        "Funding": "4",
+        "Mike": "Daniel Touray",
+        "Thew": "Karolina Basilico",
+        "Sejin": "Riley Singh",
+        "João": "Junior Michael"
+    }
+]
